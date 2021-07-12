@@ -17,7 +17,7 @@ import math
 import cv2
 import numpy as np  
 import pandas as pd
-$ ipython python/my_test_imagenet.py
+ipython python/my_test_imagenet.py
 from IPython import get_ipython
 import matplotlib.pyplot as plt  
 get_ipython().run_line_magic('matplotlib', 'inline')
