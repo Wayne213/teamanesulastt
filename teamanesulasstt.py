@@ -17,6 +17,7 @@ import math
 import cv2
 import numpy as np  
 import pandas as pd
+from IPython import get_ipython
 import matplotlib.pyplot as plt  
 get_ipython().run_line_magic('matplotlib', 'inline')
 from keras.preprocessing import image   
