@@ -17,8 +17,6 @@ import math
 import cv2
 import numpy as np  
 import pandas as pd
-from IPython import get_ipython
-
 from keras.preprocessing import image   
 from keras.utils import np_utils
 from skimage.transform import resize  
