@@ -10,7 +10,7 @@
 
 
 # In[3]:
-
+import streamlit as st
 
 #importing that l will use libraries
 import math  
